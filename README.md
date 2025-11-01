@@ -1,4 +1,4 @@
 I had forgotten
-Modification in main branch
+Modification in main branch.
 lets get it on
- Modification in feature-greeting branch.
+Modification in feature-greeting branch.
